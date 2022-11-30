@@ -8,3 +8,7 @@ When the user clicks the log out button, they will be logged out.
 
 # Links
 GitHub: https://github.com/bilalfarrukh2000/barnacle-book
+
+
+# Screenshot
+![](./Develop/client/public/localhost_3000_.png)
